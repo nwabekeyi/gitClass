@@ -1,0 +1,34 @@
+version control system
+
+repository
+    1. Remote repo
+    2. local repo
+
+
+
+types:
+    1. Centralized Version control system (CVSC):
+
+    debvelopers works in a single remote repository
+    examples: Subversion(SVN), concurrent version system(CVS).
+
+    
+    2. Distributed version control system (DVCS):
+    developers have copies of the remote repo in their local machines .
+    examples: GIT, mercurial, BitBucket
+
+
+    GIT
+created by Linus Torvalds 2005
+
+git commands
+// git init
+//git clone
+// git checkout
+// git branch
+//git remote
+//git status
+//git add
+
+stage your changes
+commit your changes
