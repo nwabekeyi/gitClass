@@ -29,6 +29,7 @@ git commands
 //git remote
 //git status
 //git add
+git commit
 
 stage your changes
 commit your changes
