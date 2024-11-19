@@ -12,7 +12,6 @@ types:
     debvelopers works in a single remote repository
     examples: Subversion(SVN), concurrent version system(CVS).
 
-    
     2. Distributed version control system (DVCS):
     developers have copies of the remote repo in their local machines .
     examples: GIT, mercurial, BitBucket
@@ -30,6 +29,7 @@ git commands
 //git status
 //git add
 git commit
+git push
 
 stage your changes
 commit your changes
